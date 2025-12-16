@@ -3,7 +3,7 @@
 
 https://github.com/astrolavos1998/CLEAR-TRASH-DCS
 
-[EN]
+-[ENG]-
 		MM DCS is the easiest way to move maps to different storage spaces with absolute security.
 		All you need is to run the program with administrator rights and have DCS World inactive.
 		It supports Greek and English languages.
@@ -12,7 +12,7 @@ https://github.com/astrolavos1998/CLEAR-TRASH-DCS
 		The use of the program is at your own risk and responsibility.
 
 
-[GR]
+-[GR]-
 		Το MM DCS είναι ότι πιο εύκολο να μετακινήτε χάρτες σε διαφορετικούς αποθηκευτικούς χώρους με απόλυτη ασφάλεια.
 		Το μόνο που χρειάζετε είναι να τρέξετε το πρόγραμμα με δικαιώματα διαχειριστή και να είναι ανενεργό το DCS World.
 		Υποστηρίζει γλώσσες ελληνικά και αγγλικά.
