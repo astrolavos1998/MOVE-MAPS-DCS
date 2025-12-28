@@ -1,7 +1,7 @@
-==========   MM DCS v.2.4.8 (M)ove (M)aps   ==========
+==========   MM DCS v.3.3.2 (M)ove (M)aps   ==========
 
 
-https://github.com/astrolavos1998/CLEAR-TRASH-DCS
+https://github.com/astrolavos1998/MOVE-MAPS-DCS
 
 -[ENG]-
 		MM DCS is the easiest way to move maps to different storage spaces with absolute security.
@@ -22,4 +22,4 @@ https://github.com/astrolavos1998/CLEAR-TRASH-DCS
 
 		
 		
-MM DCS v.2.4.8® 2025© for LOCK-ON GREECE by =GR= Astr0
+MM DCS v.3.3.2® 2025© for LOCK-ON GREECE by =GR= Astr0
